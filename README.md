@@ -7,5 +7,5 @@ script is able to creat user wordlist.
 How to run
 =========
 
-*$ chmod +x user
-*$ ./user
+*chmod +x user
+*./user
