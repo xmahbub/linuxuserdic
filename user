@@ -1,0 +1,6 @@
+#!/bin/bash
+touch users.txt
+rm users.txt
+touch users.txt
+cat /etc/passwd|cut -d : -f 1 > users.txt
+cat users.txt
